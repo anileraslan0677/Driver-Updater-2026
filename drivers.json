@@ -6,6 +6,7 @@
     "ZipPaketiMi": true,
     "GuncelSurum": "6.0.9998.1",
     "KurulumParametreleri": ""
+    "ElleMiKurulacak": true,
   },
   {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
