@@ -1,5 +1,13 @@
 [
   {
+    "CihazAdi": "Realtek Audio Driver",
+    "RegistryAnahtarKelime": "Realtek",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/AUDIO_Realtek_UAD_ASUS_ROG_RTK-Dolby_v6.0.9998.1.zip",
+    "ZipPaketiMi": true,
+    "GuncelSurum": "6.0.9998.1",
+    "KurulumParametreleri": ""
+  },
+  {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
     "GuncelSurum": "32.0.16.1062",
