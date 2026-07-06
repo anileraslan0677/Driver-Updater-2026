@@ -11,5 +11,57 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Intel Chipset",
+    "RegistryAnahtarKelime": "Chipset",
+    "GuncelSurum": "10.1.20491.8280",
+    "SurucuSaglayici": "Intel",
+    "SurucuTarihi": "20.05.2026",
+    "DijitalImzaci": "Intel",
+    "IndirmeUrl": "",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Intel Wi-Fi",
+    "RegistryAnahtarKelime": "Wi-Fi",
+    "GuncelSurum": "24.50.0.4",
+    "SurucuSaglayici": "Intel",
+    "SurucuTarihi": "20.05.2026",
+    "DijitalImzaci": "Intel",
+    "IndirmeUrl": "",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Intel Bluetooth",
+    "RegistryAnahtarKelime": "Bluetooth",
+    "GuncelSurum": "24.40.10.3",
+    "SurucuSaglayici": "Intel Corporation",
+    "SurucuTarihi": "28.04.2026",
+    "DijitalImzaci": "Intel",
+    "IndirmeUrl": "",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Realtek PCIe Ethernet",
+    "RegistryAnahtarKelime": "Realtek",
+    "GuncelSurum": "10.80.20.407",
+    "SurucuSaglayici": "Realtek",
+    "SurucuTarihi": "07.04.2026",
+    "DijitalImzaci": "Realtek",
+    "IndirmeUrl": "",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "HedefIsletimSistemi": 0
   }
 ]
