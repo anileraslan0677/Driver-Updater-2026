@@ -8,7 +8,7 @@
     "DijitalImzaci": "NVIDIA WHQL Publisher",
     "IndirmeUrl": "https://tr.download.nvidia.com/Windows/610.62/610.62-notebook-win10-win11-64bit-international-nsd-dch-whql.exe",
     "KurulumParametreleri": "-s -noreboot",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
