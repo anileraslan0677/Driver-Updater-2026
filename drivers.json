@@ -1,5 +1,18 @@
 [
    {
+    "CihazAdi": "ASUS Realtek HD Audio Sürücüsü",
+    "RegistryAnahtarKelime": "Realtek Audio",
+    "GuncelSurum": "BURAYA_RTKVHD64.sys_VERSIYONU",
+    "SurucuSaglayici": "Realtek",
+    "SurucuTarihi": "03.06.2026",
+    "DijitalImzaci": "Realtek Semiconductor Corp.",
+    "IndirmeUrl": "BURAYA_ZIP_LINKIN",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": false,
+    "ZipPaketiMi": true,
+    "HedefIsletimSistemi": 0
+  },
+   {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
     "GuncelSurum": "32.0.16.1062",
