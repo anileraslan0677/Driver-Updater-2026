@@ -3,7 +3,7 @@
     "CihazAdi": "WinRAR Arşiv",
     "RegistryAnahtarKelime": "WinRAR",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Yeni.WinRAR.ZIP.arsivi.zip",
-    "ZipPaketiMi": true,
+    "ZipPaketiMi": false,
     "GuncelSurum": "7.10",
     "KurulumParametreleri": "",
     "HedefIsletimSistemi": 0
