@@ -1,6 +1,5 @@
 [
-    {
-    },
+  {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
     "GuncelSurum": "32.0.16.1062",
@@ -12,8 +11,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
-  {
   },
+  {
     "CihazAdi": "AMD Çip Seti Sürücüsü",
     "RegistryAnahtarKelime": "AMD",
     "GuncelSurum": "8.05.04.516",
@@ -25,8 +24,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
-    {
-    },
+  },
+  {
     "CihazAdi": "Intel Çip Seti Sürücüsü",
     "RegistryAnahtarKelime": "Intel Chipset",
     "GuncelSurum": "10.1.20398.8776",
@@ -38,8 +37,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
-  {
   },
+  {
     "CihazAdi": "Intel Wi-Fi Sürücüsü",
     "RegistryAnahtarKelime": "AX210",
     "GuncelSurum": "24.50.0.4",
@@ -51,8 +50,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
-  {
   },
+  {
     "CihazAdi": "Intel Bluetooth Sürücüsü",
     "RegistryAnahtarKelime": "Bluetooth",
     "GuncelSurum": "24.40.10.3",
@@ -64,8 +63,8 @@
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
-  {
   },
+  {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 11)",
     "RegistryAnahtarKelime": "Realtek PCIe",
     "GuncelSurum": "11.30.20",
@@ -77,8 +76,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 11
-  {
   },
+  {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 10)",
     "RegistryAnahtarKelime": "Realtek PCIe",
     "GuncelSurum": "10.80.20.407",
@@ -90,5 +89,5 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 10
-  {
+  }
 ]
