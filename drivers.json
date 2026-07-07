@@ -1,4 +1,18 @@
 [
+    {
+    "CihazAdi": "NVIDIA_app",
+    "RegistryAnahtarKelime": "NVIDIA",
+    "GuncelSurum": "v11.0.8.299",
+    "SurucuSaglayici": "NVIDIA",
+    "SurucuTarihi": "11.06.2026",
+    "DijitalImzaci": "NVIDIA WHQL Publisher",
+    "IndirmeUrl": "https://tr.download.nvidia.com/nvapp/client/11.0.8.299/NVIDIA_app_v11.0.8.299.exe",
+    "KurulumParametreleri": "-s -noreboot",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
   {
     "CihazAdi": "AMD Software: Adrenalin Edition (Minimal Setup)",
     "RegistryAnahtarKelime": "AMD Software",
