@@ -85,7 +85,7 @@
   },
   {
     "CihazAdi": "AMD Çip Seti Sürücüsü",
-    "RegistryAnahtarKelime": "AMD",
+    "RegistryAnahtarKelime": "AMD Chipset",
     "GuncelSurum": "8.05.04.516",
     "SurucuSaglayici": "AMD",
     "SurucuTarihi": "18.05.2026",
@@ -112,6 +112,20 @@
     "HedefIsletimSistemi": 0
   },
   {
+    "CihazAdi": "Realtek Bluetooth (ROG)",
+    "RegistryAnahtarKelime": "Realtek Bluetooth",
+    "GuncelSurum": "18.4032.2509.1900",
+    "SurucuSaglayici": "Realtek Semiconductor Corp.",
+    "SurucuTarihi": "23.03.2026",
+    "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Bluetooth_ROG_Realtek_B_V18.4032.2509.1900_48620.exe",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
     "CihazAdi": "Intel Wi-Fi Sürücüsü",
     "RegistryAnahtarKelime": "AX210",
     "GuncelSurum": "24.50.0.4",
@@ -127,7 +141,7 @@
   },
   {
     "CihazAdi": "Intel Bluetooth Sürücüsü",
-    "RegistryAnahtarKelime": "Bluetooth",
+    "RegistryAnahtarKelime": "Intel Wireless Bluetooth",
     "GuncelSurum": "24.40.10.3",
     "SurucuSaglayici": "Intel Corporation",
     "SurucuTarihi": "28.04.2026",
