@@ -1,14 +1,19 @@
 [
   {
-  },
     "CihazAdi": "Dolby Atmos Ses Sürücüsü",
-    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/5c5ca322-4954-4c3d-a195-c3de1924fa53_ed62d566f7abfe4922792db2bdf7267ebdcf04af.cab",
+    "RegistryAnahtarKelime": "Dolby Atmos",
+    "GuncelSurum": "3.30904.943.0",
     "SurucuSaglayici": "Dolby",
     "SurucuTarihi": "10.02.2026",
-    "GuncelSurum": " 3.30904.943.0",
+    "DijitalImzaci": "Dolby Laboratories, Inc.",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/5c5ca322-4954-4c3d-a195-c3de1924fa53_ed62d566f7abfe4922792db2bdf7267ebdcf04af.cab",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": false,
+    "ZipPaketiMi": false,
     "CabPaketiMi": true,
-    "ZipPaketiMi": false
-}
+    "HedefIsletimSistemi": 0
+  },
+  {
     "CihazAdi": "ASUS Dolby Atmos Ses Sürücüsü",
     "RegistryAnahtarKelime": "Dolby Atmos",
     "GuncelSurum": "3.30512.613.0",
@@ -19,10 +24,9 @@
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
-},
+    "HedefIsletimSistemi": 0
+  },
   {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
@@ -34,9 +38,8 @@
     "KurulumParametreleri": "-s -noreboot",
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "AMD Çip Seti Sürücüsü",
@@ -49,9 +52,8 @@
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "Intel Çip Seti Sürücüsü",
@@ -64,9 +66,8 @@
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "Intel Wi-Fi Sürücüsü",
@@ -79,9 +80,8 @@
     "KurulumParametreleri": "/S /quiet /norestart",
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "Intel Bluetooth Sürücüsü",
@@ -94,9 +94,8 @@
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 0
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 11)",
@@ -109,23 +108,21 @@
     "KurulumParametreleri": "/s /v/qn /norestart",
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 11
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 11
   },
   {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 10)",
     "RegistryAnahtarKelime": "Realtek PCIe",
     "GuncelSurum": "10.80.20.407",
     "SurucuSaglayici": "Realtek",
-    "SurucuTarihi": "7.04.2026",
+    "SurucuTarihi": "07.04.2026",
     "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Install_Win11_Win10_10080_20_DMAROFF_06222026.exe",
     "KurulumParametreleri": "/s /v/qn /norestart",
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
-    "HedefIsletimSistemi": 10
-    "ZipPaketiMi": false,
     "CabPaketiMi": false,
+    "HedefIsletimSistemi": 10
   }
 ]
