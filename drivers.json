@@ -1,14 +1,14 @@
 [
-  {
-    "CihazAdi": "NVIDIA_app",
+{
+    "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
-    "GuncelSurum": "v11.0.8.299",
+    "GuncelSurum": "32.0.16.1062",
     "SurucuSaglayici": "NVIDIA",
     "SurucuTarihi": "11.06.2026",
     "DijitalImzaci": "NVIDIA WHQL Publisher",
     "IndirmeUrl": "https://tr.download.nvidia.com/Windows/610.62/610.62-notebook-win10-win11-64bit-international-nsd-dch-whql.exe",
     "KurulumParametreleri": "-s -noreboot",
-    "ElleMiKurulacak": true,
+    "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
