@@ -1,4 +1,18 @@
 [
+    {
+    "CihazAdi": "ASUS Dolby Atmos Ses Sürücüsü",
+    "RegistryAnahtarKelime": "Dolby Atmos",
+    "GuncelSurum": "3.30512.613.0",
+    "SurucuSaglayici": "Dolby",
+    "SurucuTarihi": "bilinmiyor",
+    "DijitalImzaci": "Dolby Laboratories, Inc.",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/DolbyAtmosdriverforROG_TUF_ASUS_Z_V3.30512.613.0_15498_4.exe",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
   {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
