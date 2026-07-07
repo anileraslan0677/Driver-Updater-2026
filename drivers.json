@@ -78,7 +78,7 @@
     "DijitalImzaci": "NVIDIA WHQL Publisher",
     "IndirmeUrl": "https://tr.download.nvidia.com/nvapp/client/11.0.8.299/NVIDIA_app_v11.0.8.299.exe",
     "KurulumParametreleri": "-s -noreboot",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
