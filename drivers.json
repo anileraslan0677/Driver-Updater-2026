@@ -6,7 +6,7 @@
     "SurucuSaglayici": "NVIDIA",
     "SurucuTarihi": "11.06.2026",
     "DijitalImzaci": "NVIDIA WHQL Publisher",
-    "IndirmeUrl": "https://www.nvidia.com/tr-tr/drivers/details/272896/",
+    "IndirmeUrl": "https://tr.download.nvidia.com/Windows/610.62/610.62-notebook-win10-win11-64bit-international-nsd-dch-whql.exe",
     "KurulumParametreleri": "-s -noreboot",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
