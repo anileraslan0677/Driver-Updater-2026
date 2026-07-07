@@ -1,19 +1,5 @@
 [
 {
-  "CihazAdi": "Realtek Bluetooth (ROG)",
-  "RegistryAnahtarKelime": "Realtek Bluetooth",
-  "GuncelSurum": "18.4032.2509.1900",
-  "SurucuSaglayici": "Realtek Semiconductor Corp.",
-  "SurucuTarihi": "23.03.2026",
-  "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
-  "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Bluetooth_ROG_Realtek_B_V18.4032.2509.1900_48620.exe",
-  "KurulumParametreleri": "",
-  "ElleMiKurulacak": true,
-  "ZipPaketiMi": false,
-  "CabPaketiMi": false,
-  "HedefIsletimSistemi": 0
-},
-{
     "CihazAdi": "Realtek 8852BE Wireless LAN (ROG)",
     "RegistryAnahtarKelime": "Realtek 8852BE",
     "GuncelSurum": "6001.15.162.1",
