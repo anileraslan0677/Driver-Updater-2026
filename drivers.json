@@ -14,11 +14,11 @@
     "HedefIsletimSistemi": 0
   },
   {
-    "CihazAdi": "NVIDIA Grafik Sürücüsü",
+    "CihazAdi": "NVIDIA APP",
     "RegistryAnahtarKelime": "NVIDIA",
-    "GuncelSurum": "32.0.16.1062",
+    "GuncelSurum": "11.0.8.299",
     "SurucuSaglayici": "NVIDIA",
-    "SurucuTarihi": "11.06.2026",
+    "SurucuTarihi": "bilinmiyor",
     "DijitalImzaci": "NVIDIA WHQL Publisher",
     "IndirmeUrl": "https://us.download.nvidia.com/nvapp/client/11.0.8.299/NVIDIA_app_v11.0.8.299.exe",
     "KurulumParametreleri": "",
