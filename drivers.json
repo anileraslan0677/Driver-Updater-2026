@@ -1,5 +1,4 @@
 [
-[
   {
     "CihazAdi": "Realtek 8852BE Wireless LAN (ROG)",
     "RegistryAnahtarKelime": "Realtek 8852BE",
@@ -28,7 +27,7 @@
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
-{
+  {
     "CihazAdi": "AMD Software: Adrenalin Edition (Minimal Setup)",
     "RegistryAnahtarKelime": "AMD Software",
     "GuncelSurum": "26.6.4",
@@ -42,7 +41,7 @@
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
-{
+  {
     "CihazAdi": "ASUS Precision TouchPad (ROG)",
     "RegistryAnahtarKelime": "Precision TouchPad",
     "GuncelSurum": "16.0.0.44",
@@ -61,7 +60,7 @@
     "RegistryAnahtarKelime": "ASUS Smart Display Control",
     "GuncelSurum": "2.10.25",
     "SurucuSaglayici": "ASUSTeK Computer Inc.",
-    "SurucuTarihi": "2024.05.20 6",
+    "SurucuTarihi": "20.05.2024",
     "DijitalImzaci": "ASUSTeK Computer Inc.",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/ASUSSmartDisplayControl_ASUS_Z_V2.10.25_15838_4.exe",
     "KurulumParametreleri": "",
@@ -89,7 +88,7 @@
     "RegistryAnahtarKelime": "Dolby Atmos",
     "GuncelSurum": "3.30512.613.0",
     "SurucuSaglayici": "Dolby",
-    "SurucuTarihi": "16.06.2026", 
+    "SurucuTarihi": "16.06.2026",
     "DijitalImzaci": "Dolby Laboratories, Inc.",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/DolbyAtmosdriverforROG_TUF_ASUS_Z_V3.30512.613.0_15498_4.exe",
     "KurulumParametreleri": "",
