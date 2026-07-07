@@ -1,5 +1,19 @@
 [
   {
+    "CihazAdi": "Realtek Bluetooth (ROG)",
+    "RegistryAnahtarKelime": "Realtek Bluetooth",
+    "GuncelSurum": "18.4032.2509.1900",
+    "SurucuSaglayici": "Realtek Semiconductor Corp.",
+    "SurucuTarihi": "16.06.2026",
+    "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Bluetooth_ROG_Realtek_B_V18.4032.2509.1900_48620.exe",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
     "CihazAdi": "AMD Software: Adrenalin Edition (Minimal Setup)",
     "RegistryAnahtarKelime": "AMD Software",
     "GuncelSurum": "26.6.4",
