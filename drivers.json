@@ -166,5 +166,47 @@
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 10
+  },
+  {
+    "CihazAdi": "THX Spatial Audio Virtual Audio Device",
+    "RegistryAnahtarKelime": "THXVAD",
+    "GuncelSurum": "1.2.42.419",
+    "SurucuSaglayici": "THX Ltd.",
+    "SurucuTarihi": "01.07.2026",
+    "DijitalImzaci": "THX Ltd. WHQL Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/THXVAD_OTA6-rc4_v1.2.42-419.exe",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": false,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Intel Rapid Storage Technology (RST) Sürücüsü",
+    "RegistryAnahtarKelime": "Intel Rapid Storage",
+    "GuncelSurum": "20.0.0.1037",
+    "SurucuSaglayici": "Intel Corporation",
+    "SurucuTarihi": "05.07.2026",
+    "DijitalImzaci": "Intel Corporation WHQL Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/SetupRST.exe",
+    "KurulumParametreleri": "-s -noreboot",
+    "ElleMiKurulacak": false,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
+  {
+    "CihazAdi": "Control Center U Application",
+    "RegistryAnahtarKelime": "ControlCenterU",
+    "GuncelSurum": "1.1.0.51",
+    "SurucuSaglayici": "OEM",
+    "SurucuTarihi": "01.07.2026",
+    "DijitalImzaci": "OEM Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/ControlCenterU_1.1.0.51.rar",
+    "KurulumParametreleri": "",
+    "ElleMiKurulacak": true,
+    "ZipPaketiMi": true,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
   }
 ]
