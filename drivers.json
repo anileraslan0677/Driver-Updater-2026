@@ -1,12 +1,13 @@
 [
-    {
-    "CihazAdi": "Realtek Bluetooth (ROG)",
-    "RegistryAnahtarKelime": "Realtek Bluetooth",
-    "GuncelSurum": "18.4032.2509.1900",
+[
+  {
+    "CihazAdi": "Realtek 8852BE Wireless LAN (ROG)",
+    "RegistryAnahtarKelime": "Realtek 8852BE",
+    "GuncelSurum": "6001.15.162.1",
     "SurucuSaglayici": "Realtek Semiconductor Corp.",
-    "SurucuTarihi": "2026.03.23 ",
+    "SurucuTarihi": "16.06.2026",
     "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
-    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Bluetooth_ROG_Realtek_B_V18.4032.2509.1900_48620.exe",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/WirelessLan_ROG_Realtek_B_V6001.15.162.1_48619.exe",
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
@@ -14,13 +15,13 @@
     "HedefIsletimSistemi": 0
   },
   {
-    "CihazAdi": "Realtek Wireless LAN (ROG)",
-    "RegistryAnahtarKelime": "Realtek Wireless",
-    "GuncelSurum": "6001.15.162.1",
+    "CihazAdi": "Realtek Bluetooth (ROG)",
+    "RegistryAnahtarKelime": "Realtek Bluetooth",
+    "GuncelSurum": "18.4032.2509.1900",
     "SurucuSaglayici": "Realtek Semiconductor Corp.",
-    "SurucuTarihi": "2026.03.23 ",
+    "SurucuTarihi": "16.06.2026",
     "DijitalImzaci": "Realtek Semiconductor Corp. WHQL Publisher",
-    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/WirelessLan_ROG_Realtek_B_V6001.15.162.1_48619.exe",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Bluetooth_ROG_Realtek_B_V18.4032.2509.1900_48620.exe",
     "KurulumParametreleri": "",
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
