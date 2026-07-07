@@ -21,7 +21,7 @@
     "SurucuTarihi": "11.06.2026",
     "DijitalImzaci": "NVIDIA WHQL Publisher",
     "IndirmeUrl": "https://us.download.nvidia.com/nvapp/client/11.0.8.299/NVIDIA_app_v11.0.8.299.exe",
-    "KurulumParametreleri": "-s -noreboot",
+    "KurulumParametreleri": "",
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
