@@ -11,7 +11,7 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "CabPaketiMi": true,
-    "HedefIsletimSistemi": 10
+    "HedefIsletimSistemi": 0
   },
   {
     "CihazAdi": "ASUS Dolby Atmos Ses Sürücüsü",
@@ -109,7 +109,7 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
-    "HedefIsletimSistemi": 11
+    "HedefIsletimSistemi": 10
   },
   {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 10)",
