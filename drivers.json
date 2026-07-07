@@ -11,6 +11,8 @@
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
 },
   {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
@@ -24,6 +26,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "AMD Çip Seti Sürücüsü",
@@ -37,6 +41,8 @@
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "Intel Çip Seti Sürücüsü",
@@ -50,6 +56,8 @@
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "Intel Wi-Fi Sürücüsü",
@@ -63,6 +71,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "Intel Bluetooth Sürücüsü",
@@ -76,6 +86,8 @@
     "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 11)",
@@ -89,6 +101,8 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 11
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   },
   {
     "CihazAdi": "Realtek PCIe Ethernet Sürücüsü (Windows 10)",
@@ -102,5 +116,7 @@
     "ElleMiKurulacak": false,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 10
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
   }
 ]
