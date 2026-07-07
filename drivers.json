@@ -1,4 +1,18 @@
 [
+  {
+    "CihazAdi": "Intel Driver & Support Assistant",
+    "RegistryAnahtarKelime": "Intel(R) Driver & Support Assistant",
+    "GuncelSurum": "24.2.16.4",
+    "SurucuSaglayici": "Intel Corporation",
+    "SurucuTarihi": "15.05.2026",
+    "DijitalImzaci": "Intel Corporation WHQL Publisher",
+    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Intel-Driver-and-Support-Assistant-Installer.exe",
+    "KurulumParametreleri": "/passive /norestart",
+    "ElleMiKurulacak": false,
+    "ZipPaketiMi": false,
+    "CabPaketiMi": false,
+    "HedefIsletimSistemi": 0
+  },
 {
     "CihazAdi": "NVIDIA Grafik Sürücüsü",
     "RegistryAnahtarKelime": "NVIDIA",
