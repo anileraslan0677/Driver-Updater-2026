@@ -21,7 +21,7 @@
     "DijitalImzaci": "Advanced Micro Devices, Inc. WHQL Publisher",
     "IndirmeUrl": "https://drivers.amd.com/drivers/amd_chipset_software_8.05.04.516.exe",
     "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
@@ -34,7 +34,7 @@
     "DijitalImzaci": "Intel Corporation",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/SetupChipset.exe",
     "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
