@@ -12,6 +12,7 @@
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
+    "KontrolTipi": "Application",
   },
   {
     "CihazAdi": "NVIDIA APP",
