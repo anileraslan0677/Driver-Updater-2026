@@ -27,20 +27,20 @@
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
   },
-  {
-    "CihazAdi": "AMD Software: Adrenalin Edition (Minimal Setup)",
-    "RegistryAnahtarKelime": "AMD Software",
-    "GuncelSurum": "26.6.4",
-    "SurucuSaglayici": "Advanced Micro Devices, Inc.",
-    "SurucuTarihi": "29.06.2026",
-    "DijitalImzaci": "Advanced Micro Devices, Inc. WHQL Publisher",
-    "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/amd-software-adrenalin-edition-26.6.4-minimalsetup-260628_web.exe",
-    "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
-    "ZipPaketiMi": false,
-    "CabPaketiMi": false,
-    "HedefIsletimSistemi": 0
-  },
+{
+  "CihazAdi": "AMD Software: Adrenalin Edition (Minimal Setup)",
+  "RegistryAnahtarKelime": "Radeon",
+  "GuncelSurum": "26.6.4",
+  "SurucuSaglayici": "Advanced Micro Devices, Inc.",
+  "SurucuTarihi": "29.06.2026",
+  "DijitalImzaci": "Advanced Micro Devices, Inc. WHQL Publisher",
+  "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/amd-software-adrenalin-edition-26.6.4-minimalsetup-260628_web.exe",
+  "KurulumParametreleri": "",
+  "ElleMiKurulacak": true,
+  "ZipPaketiMi": false,
+  "CabPaketiMi": false,
+  "HedefIsletimSistemi": 0
+},
   {
     "CihazAdi": "ASUS Precision TouchPad (ROG)",
     "RegistryAnahtarKelime": "Precision TouchPad",
