@@ -4,11 +4,11 @@
     "RegistryAnahtarKelime": "Intel(R) Driver & Support Assistant",
     "GuncelSurum": "26.1.0.2",
     "SurucuSaglayici": "Intel Corporation",
-    "SurucuTarihi": "15.05.2026",
+    "SurucuTarihi": "bilinmiyor",
     "DijitalImzaci": "Intel Corporation WHQL Publisher",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Intel-Driver-and-Support-Assistant-Installer.exe",
     "KurulumParametreleri": "/passive /norestart",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
@@ -106,7 +106,7 @@
     "DijitalImzaci": "Advanced Micro Devices, Inc. WHQL Publisher",
     "IndirmeUrl": "https://drivers.amd.com/drivers/amd_chipset_software_8.05.04.516.exe",
     "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
@@ -120,7 +120,7 @@
     "DijitalImzaci": "Intel Corporation",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/SetupChipset.exe",
     "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
@@ -162,7 +162,7 @@
     "DijitalImzaci": "THX Ltd. WHQL Publisher",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/THXVAD_OTA6-rc4_v1.2.42-419.exe",
     "KurulumParametreleri": "",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
@@ -170,13 +170,13 @@
   {
     "CihazAdi": "Intel Rapid Storage Technology (RST) Sürücüsü",
     "RegistryAnahtarKelime": "Intel Rapid Storage",
-    "GuncelSurum": "20.0.0.1037",
+    "GuncelSurum": "18.7.6.1010.3",
     "SurucuSaglayici": "Intel Corporation",
     "SurucuTarihi": "4.14.2023",
     "DijitalImzaci": "Intel Corporation WHQL Publisher",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/SetupRST.exe",
     "KurulumParametreleri": "-s -noreboot",
-    "ElleMiKurulacak": false,
+    "ElleMiKurulacak": true,
     "ZipPaketiMi": false,
     "CabPaketiMi": false,
     "HedefIsletimSistemi": 0
