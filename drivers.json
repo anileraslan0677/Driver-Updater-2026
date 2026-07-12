@@ -4,7 +4,7 @@
     "RegistryAnahtarKelime": "Intel(R) Driver & Support Assistant",
     "GuncelSurum": "26.1.0.2",
     "SurucuSaglayici": "Intel Corporation",
-    "SurucuTarihi": "15.05.2026",
+    "SurucuTarihi": "23.04.2026",
     "DijitalImzaci": "Intel Corporation WHQL Publisher",
     "IndirmeUrl": "https://github.com/anileraslan0677/Driver-Updater-2026/releases/download/v1.0/Intel-Driver-and-Support-Assistant-Installer.exe",
     "KurulumParametreleri": "/passive /norestart",
